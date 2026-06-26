@@ -1,0 +1,20 @@
+{
+  "name": "Tab+",
+  "description": "Fixes the UI freeze caused by holding the Tab key. Throttles focus changes so Spotify stays responsive, with hardware presets and fine-grained interval control.",
+  "preview": "preview.png",
+  "main": "tabplus.js",
+  "readme": "README.md",
+  "authors": [
+    {
+      "name": "vvertax",
+      "url": "https://github.com/vvertax"
+    }
+  ],
+  "tags": [
+    "fix",
+    "performance",
+    "accessibility",
+    "keyboard",
+    "focus"
+  ]
+}
