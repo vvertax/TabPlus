@@ -13,8 +13,10 @@
   "tags": [
     "fix",
     "performance",
-    "accessibility",
     "keyboard",
-    "focus"
+    "focus",
+    "tabplus",
+    "tab+",
+    "tab"
   ]
 }
